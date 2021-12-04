@@ -16,6 +16,7 @@
 - 3 Lithium Batteries
 - ESP32
 - Joystick
+- OLED
 
 Tutorials sem stuðst var við
 
@@ -59,3 +60,8 @@ Að uppsetningunni lokinni var tími til þess að fá Matrix skjáinn til þess
 Heill fjagra klukkutíma tími í skólanum (þar sem kennari var ekki við) fór í það að prófa ýmis library og kóða til þess að fá skjáinn til þess að virka en alltaf fór eitthvað úrskeiðis með þessi blessuðu library. Við endurræstum raspberry pi, installuðum nýju OS, eyddum út öðrum libraryum sem gætu truflað, pössuðum vel upp á það að uppsetningin væri rétt en kjarninn á vandamálinu virtist ekki hafa neitt með okkur að gera. Vegna þess að þegar við installuðum [þessu](https://github.com/hzeller/rpi-rgb-led-matrix.git) library eftir hzeller af github fengum við error skilaboð sem gaf til kynna að það hreinlega vantaði sumar skrár í libraryinu. Þannig við kíktum örsnöggt í library möppuna og fundum allar möppur frá github libraryinu á sínum stað, en þær voru allar tómar. Gögn sem hefðu átt að installast með þegar við slógum inn "git clone https://github.com/hzeller/rpi-rgb-led-matrix.git" hreinlega voru ekki þarna.
 
 Vegna ótal villumeldinga sem við fengum þrátt fyrir að hafa fylgt nákvæmlega leiðbeiningum og gert tilraunir með okkar eigin þekkingu bara til þess að fá skjáinn til þess að "virka". Þá ákváðum við að það væri best að skipta yfir í annan skjá til þess að geta skilað einhverju. Vegna þess að nú voru tveir fjagra klukkutíma tímar búnir og við höfðum einungis lokið við uppsetninguna. Næsta tilraun var því smá breyting á verkefninu, en í henni fólst að í staðinn fyrir rbg Matrix skjáinn þá var OLED notaður.
+
+---
+
+### Önnur Tilraun
+
