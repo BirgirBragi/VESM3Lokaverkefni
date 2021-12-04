@@ -14,12 +14,17 @@
 - DC power adapter
 - SPDT Slide Switch
 - 3 Lithium Batteries
-- 
+- ESP32
+- Joystick
 
 Tutorials sem stuðst var við
 
 - https://learn.adafruit.com/matrix-led-sand
 - https://howchoo.com/pi/raspberry-pi-led-matrix-panel
+
+Upprunalega Hugmyndin:
+ 
+Að nota joystick með Esp32 til þess að stýra Pong tölvuleik á rgb matrix skjá. Hægt væri síðan að birta high score sem gert væri yfir netið
 
 ---
 
