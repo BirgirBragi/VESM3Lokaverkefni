@@ -10,3 +10,5 @@
 - Adafruit rgb Matrix Bonnet
 - DC power adapter
 - SPDT Slide Switch
+
+Fyrst var SPDT Slide Switch lóðaður við ground á PowerBoost 1000C til þess að geta auðveldlega slökkt á rafmagninu.
