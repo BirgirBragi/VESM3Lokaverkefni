@@ -14,9 +14,6 @@
 - DC power adapter
 - SPDT Slide Switch
 - 3 Lithium Batteries
-- ESP32
-- Joystick
-- OLED
 
 Tutorials sem stuðst var við
 
@@ -65,3 +62,11 @@ Vegna ótal villumeldinga sem við fengum þrátt fyrir að hafa fylgt nákvæml
 
 ### Önnur Tilraun
 
+---
+
+#### Heimildir, Íhlutir o.fl.
+
+íhlutir notaðir:
+- ESP32
+- Joystick
+- OLED
