@@ -83,10 +83,12 @@ Að nota Joystick með ESP32 til þess að stýra Pong tölvuleik á OLED skjá.
 
 #### Uppsettning
 
-Fyrst tengdum við Esp32 við Joystick og fengum analog gildi. Ákváðum bara að nota eina átt, JoyX til þess að stýra leikmaninnum í Pong.
+Fyrst tengdum við Esp32 við Joystick og fengum analog gildi. Ákváðum bara að nota eina átt, JoyX (s.s. upp og niður) til þess að stýra leikmaninnum í Pong.
 Kóði: [https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/EspJoystick.ino](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/EspJoystick.ino)
 
 mynd
 
 Svo tengdum við ESP32 við OLED og við gætum látið OLED skjáinn virka.
-Kóði: [https://randomnerdtutorials.com/esp32-ssd1306-oled-display-arduino-ide/]
+--> Kóði: []() <--
+
+mynd
