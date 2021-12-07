@@ -22,7 +22,7 @@ Tutorials sem stuðst var við
 
 Upprunalega Hugmyndin:
  
-Að nota joystick með Esp32 til þess að stýra Pong tölvuleik á rgb matrix skjá. Hægt væri síðan að birta high score sem gert væri yfir netið
+Að nota joystick með ESP32 til þess að stýra Pong tölvuleik á rgb matrix skjá. Hægt væri síðan að birta high score sem gert væri yfir netið
 
 ---
 
@@ -76,6 +76,9 @@ Tutorials sem stuðst var við:
 - [https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide/](https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide/)
 - [https://lastminuteengineers.com/joystick-interfacing-arduino-processing/](https://lastminuteengineers.com/joystick-interfacing-arduino-processing/)
 
+Upprunaleg hugmynd:
+Að nota Joystick með ESP32 til þess að stýra Pong tölvuleik á OLED skjá. Hægt væri síðan að birta high score sem gert væri yfir neti. 
+
 ---
 
 #### Uppsettning
@@ -84,3 +87,6 @@ Fyrst tengdum við Esp32 við Joystick og fengum analog gildi. Ákváðum bara a
 Kóði: [https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/EspJoystick.ino](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/EspJoystick.ino)
 
 mynd
+
+Svo tengdum við ESP32 við OLED og við gætum látið OLED skjáinn virka.
+Kóði: [https://randomnerdtutorials.com/esp32-ssd1306-oled-display-arduino-ide/]
