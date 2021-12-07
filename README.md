@@ -75,3 +75,12 @@ Tutorials sem stuðst var við:
 
 - [https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide/](https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide/)
 - [https://lastminuteengineers.com/joystick-interfacing-arduino-processing/](https://lastminuteengineers.com/joystick-interfacing-arduino-processing/)
+
+---
+
+#### Uppsettning
+
+Fyrst tengdum við Esp32 við Joystick og fengum analog gildi. Ákváðum bara að nota eina átt, JoyX til þess að stýra leikmaninnum í Pong.
+Kóði: [https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/EspJoystick.ino](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/EspJoystick.ino)
+
+mynd
