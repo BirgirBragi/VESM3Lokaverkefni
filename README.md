@@ -92,3 +92,5 @@ Svo tengdum við ESP32 við OLED og við gætum látið OLED skjáinn virka.
 --> Kóði: []() <--
 
 mynd
+
+Pong kóði notaður = [https://github.com/eholk/Arduino-Pong](https://github.com/eholk/Arduino-Pong)
