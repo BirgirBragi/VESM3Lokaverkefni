@@ -7,9 +7,6 @@ void setup() {
 }
  
 void loop() {
-  // put your main code here, to run repeatedly:
- 
-  //print the values with to plot or view
   Serial.println(analogRead(joyX));
   //Serial.print("\t");
   //Serial.println(analogRead(joyY));
