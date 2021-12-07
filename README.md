@@ -30,23 +30,23 @@ Að nota joystick með Esp32 til þess að stýra Pong tölvuleik á rgb matrix 
 
 Fyrst var Adafruit rbg Matrix Bonnet sett ofan á Rasperry Pi Zero-inn og rafmagnið tengt frá Bonnetinu yfir í skjáinn með snúru. Einnig var red ribbon snúra tengd við Bonnetið og skjáinn
 
-(mynd)
+![ alt text for screen readers](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Myndir/IMG_20211207_081806.jpg "Text to show on mouseover")
 
 Síðan var pinni 4 lóðaður við pinna 18 á Bonnetinu
 
-(mynd)
+![ alt text for screen readers](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Myndir/IMG_20211207_081852.jpg "Text to show on mouseover")
 
 Síðan var SPDT Slide Switch lóðaður við ground á PowerBoost 1000C til þess að geta auðveldlega slökkt á rafmagninu.
 
-(mynd af lóðuninni)
+![ alt text for screen readers](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Myndir/IMG_20211207_081916.jpg "Text to show on mouseover")
 
 og snúrur tengdar á milli PowerBoost og Bonnetsins. Við það var DC power adapterinn notaður
 
-(mynd)
+![ alt text for screen readers](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Myndir/IMG_20211207_081953.jpg "Text to show on mouseover")
 
 Síðan var ekkert annað eftir heldur en að tengja batteríin í PowerBoostinn og við það fékk Bonnetinn, Raspberry Pi Zero-inn og matrix skjárinn rafmagn
 
-(mynd)
+![ alt text for screen readers](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Myndir/IMG_20211207_082053.jpg "Text to show on mouseover")
 
 ---
 
