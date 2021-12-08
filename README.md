@@ -88,9 +88,11 @@ Kóði: [https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/EspJoys
 
 mynd
 
-Svo tengdum við ESP32 við OLED og við gætum látið OLED skjáinn virka.
---> Kóði: []() <--
+Svo tengdum við ESP32 við OLED og við gætum látið OLED skjáinn virka. Með kóða sem fundinn er í adafruit library-i
 
 mynd
 
+Síðan tókum við Pong kóða fyrir OLED og betrumbættum til þess að hægt væri að nota joystick 
 Pong kóði notaður = [https://github.com/eholk/Arduino-Pong](https://github.com/eholk/Arduino-Pong)
+
+mynd
