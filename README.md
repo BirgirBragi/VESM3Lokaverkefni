@@ -101,3 +101,7 @@ Eitt vandamál sem við lentum í var að eftir að við tengdum ESP32 við Adaf
 Þetta var náttúrulega vegna þess að við vorum að senda í feed í loop() fallinu, við föttuðum það og ákváðum síðan að breyta kóðanum þannig að hægt væri að resetta leikinn hvenær sem er með því að ýta á takkann á joystickinu. Í leiðinni og leikurinn myndi enda (resettast) þá myndi esp32 aðeins senda scoreið í feed þá. Síðan höfum við ifttt tengt við það feed sem tekur valueið úr feedinu og sendir notification í símann þinn (með skorinu!).
 
 Hér eru myndir, kóðar myndbönd tengt þessu
+
+Kóði með pong leik sem uploadar score í feed í adafruit io: [https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/sketch_dec07c.ino](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/sketch_dec07c.ino)
+
+Myndband sem sýnir virkni: [https://youtu.be/Uhf0HPrgozw](https://youtu.be/Uhf0HPrgozw)
