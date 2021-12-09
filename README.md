@@ -104,4 +104,6 @@ Hér eru myndir, kóðar myndbönd tengt þessu
 
 Kóði með pong leik sem uploadar score í feed í adafruit io: [https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/sketch_dec07c.ino](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/sketch_dec07c.ino)
 
+Config skrá sem fylgir með: [https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/config.h](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Code/config.h)
+
 Myndband sem sýnir virkni: [https://youtu.be/Uhf0HPrgozw](https://youtu.be/Uhf0HPrgozw)
