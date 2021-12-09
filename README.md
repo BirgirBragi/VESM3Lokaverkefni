@@ -96,3 +96,5 @@ Síðan tókum við Pong kóða fyrir OLED og betrumbættum til þess að hægt 
 Pong kóði notaður = [https://github.com/eholk/Arduino-Pong](https://github.com/eholk/Arduino-Pong)
 
 ![](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Myndir/IMG_20211208_215101.jpg)
+
+Eitt vandamál sem við lentum í var að eftir að við tengdum ESP32 við Adafruit IO feed þá byrjaði það að hökta rosalega mikið. Eftir nokkrar tilraunir við að laga þetta var það enn að hökta en reyndar ekki eins mikið. 
