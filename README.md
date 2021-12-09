@@ -77,7 +77,7 @@ Tutorials sem stuðst var við:
 - [https://lastminuteengineers.com/joystick-interfacing-arduino-processing/](https://lastminuteengineers.com/joystick-interfacing-arduino-processing/)
 
 Upprunaleg hugmynd:
-Að nota Joystick með ESP32 til þess að stýra Pong tölvuleik á OLED skjá. Hægt væri síðan að birta high score sem gert væri yfir neti. 
+Að nota Joystick með ESP32 til þess að stýra Pong tölvuleik á OLED skjá. Hægt væri síðan að birta score sem gert væri yfir neti. 
 
 ---
 
@@ -97,4 +97,7 @@ Pong kóði notaður = [https://github.com/eholk/Arduino-Pong](https://github.co
 
 ![](https://github.com/BirgirBragi/VESM3Lokaverkefni/blob/main/Myndir/IMG_20211208_215101.jpg)
 
-Eitt vandamál sem við lentum í var að eftir að við tengdum ESP32 við Adafruit IO feed þá byrjaði það að hökta rosalega mikið. Eftir nokkrar tilraunir við að laga þetta var það enn að hökta en reyndar ekki eins mikið. 
+Eitt vandamál sem við lentum í var að eftir að við tengdum ESP32 við Adafruit IO feed þá byrjaði það að hökta rosalega mikið. Eftir nokkrar tilraunir við að laga þetta var það enn að hökta en reyndar ekki eins mikið.
+Þetta var náttúrulega vegna þess að við vorum að senda í feed í loop() fallinu, við föttuðum það og ákváðum síðan að breyta kóðanum þannig að hægt væri að resetta leikinn hvenær sem er með því að ýta á takkann á joystickinu. Í leiðinni og leikurinn myndi enda (resettast) þá myndi esp32 aðeins senda scoreið í feed þá. Síðan höfum við ifttt tengt við það feed sem tekur valueið úr feedinu og sendir notification í símann þinn (með skorinu!).
+
+Hér eru myndir, kóðar myndbönd tengt þessu
